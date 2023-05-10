@@ -12,4 +12,4 @@
 9. 프로그램은 음료를 제조할 때를 제외하고 언제든 종료할 수 있다.
  
 ## 커뮤니케이션 다이어그램
-https://whimsical.com/HToqSu82hz8Yprfjqbnk2a@2Ux7TurymN5wuRNPnrb5
+https://whimsical.com/HToqSu82hz8Yprfjqbnk2a
